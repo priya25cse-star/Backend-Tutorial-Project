@@ -1,2 +1,2 @@
 # Backend-Tutorial-Project
-Node.js, Express and MongoDB CRUD Backend Project
+Node.js, Express and MongoDB SCRUD Backend Project
